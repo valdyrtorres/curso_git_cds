@@ -1,4 +1,6 @@
-seaborn
 pandas
-matplotlib
+plotly
+streamlit
 openpyxl
+XlsxWriter
+seaborn
